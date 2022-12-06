@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">A passionate backend developer in Java</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fduda354&label=Profile%20views&color=0e75b6&style=flat" alt="fduda354" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fduda354" alt="fduda354" /></a> </p>
-
 - 🔭 I’m currently working on [Invoice Manager](https://github.com/FDuda354/InvoiceManagerBackend-SQL)
 
 - 🌱 I’m currently learning **Spring Boot and Java**
