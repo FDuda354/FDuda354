@@ -19,5 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fduda354&show_icons=true&locale=en&layout=compact&theme=Gradient" alt="fduda354" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Gradient)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fduda354&show_icons=true&locale=en" alt="fduda354" /></p>
