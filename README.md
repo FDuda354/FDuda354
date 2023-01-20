@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and Java**
 
-- 👯 I’m looking to collaborate on [Grocery Store](https://github.com/FDuda354/GroceryStoreBacked)
+- 👯 I’m looking to collaborate on [Grocery Store-v2](https://github.com/FDuda354/GroceryStoreBacked-v2)
 
 - 📫 How to reach me **filipduda9@icloud.com**
 
