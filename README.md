@@ -23,18 +23,20 @@ Focused on clean code, automation and long-term maintainability.
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-</p>
+<table align="center">
+<tr>
+<td><a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a></td>
+<td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a></td>
+<td><a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a></td>
+<td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
+<td><a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a></td>
+<td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a></td>
+<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
+<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a></td>
+<td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
+<td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a></td>
+</tr>
+</table>
 
 ---
 
